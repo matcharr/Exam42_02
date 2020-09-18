@@ -6,7 +6,7 @@
 /*   By: codespace <codespace@student.42.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/09/17 16:56:50 by codespace         #+#    #+#             */
-/*   Updated: 2020/09/18 20:16:17 by codespace        ###   ########.fr       */
+/*   Updated: 2020/09/18 20:19:40 by codespace        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@ int     main(int argc, char **argv)
         int used[255], i = 0, j;
 
         if (argc == 3)
-        {}
+        {
                 while (i < 255)
                         used[i++] = 0;
                 i = 2;
